@@ -54,6 +54,14 @@ nav li{
     text-decoration: none;
     color: black;
  }
+.footer {
+    margin-top: 195px;
+}
+ .pathway-gothic-one-regular {
+    font-family: "Pathway Gothic One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ }
 .card {
     width: 200px;
     height: 300px; 
